@@ -1,0 +1,39 @@
+HTML Structure: Learn the basic structure using <!DOCTYPE html>, html, head, and body tags.
+
+Head Elements: Add title, meta charset, and meta description for page information and SEO.
+
+Title Tag: Set the page title, which appears in search results and browser tabs.
+
+Headings: Use h1 for the main heading, h2-h6 for subheadings; h1 is crucial for SEO.
+
+Paragraphs: Use p for text blocks, with strong and em for bold and italic emphasis.
+
+Images: Embed images with img, using src for the image source and alt for descriptions (important for SEO and accessibility).
+
+Links: Create hyperlinks with a, using href for the URL and meaningful anchor text for better SEO.
+
+URLs: Structure URLs within links clearly and descriptively to improve SEO.
+
+Lists: Build ordered (ol) and unordered (ul) lists for structured content.
+
+Forms: Create forms using form with inputs like text, email, password, checkbox, and radio, each paired with labels for clarity.
+
+Buttons: Add buttons using button with clear, descriptive text for actions.
+
+Semantic HTML: Use header, nav, main, section, article, and footer to structure content meaningfully, aiding both users and search engines.
+
+Meta Tags: Include meta description, meta keywords, and meta viewport for SEO and mobile optimization.
+
+Viewport Meta Tag: Ensure mobile-friendliness with viewport meta tag for responsive design.
+
+Responsive Images: Use srcset in img to load different image sizes based on screen resolution.
+
+Alt Text: Write alt attributes in images for accessibility and keyword relevance for SEO.
+
+HTML Validation: Validate HTML to ensure code meets web standards, aiding browser compatibility.
+
+CSS Basics: Introduction to inline CSS for basic styling, with a note on external vs. internal styles.
+
+HTML Comments: Use <!-- Comment --> to leave notes in your code without affecting the webpage.
+
+Project: Apply all learned concepts to build a Cat Photo App, reinforcing understanding of HTML, SEO, and basic CSS.
